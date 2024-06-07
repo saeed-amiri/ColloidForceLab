@@ -9,3 +9,13 @@ Simulating the aggregation of many nanoparticles (NPs) with all-atom simulations
 
 ## How:
 The model will be built here, and the forces between the nanoparticles (NPs) will be computed using the GROMACS package. The final model will be simulated within LAMMPS.
+
+## Strucure:
+ColloidForceLab/
+├── src/
+│   ├── common/
+│   │   └── logger.py
+├── tests/
+│   ├── test_logger.py
+├── README.md
+├── setup.py
