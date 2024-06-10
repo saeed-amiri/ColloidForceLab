@@ -16,8 +16,10 @@ ColloidForceLab/
 ├── src/
 │   ├── common/
 │   │   └── logger.py
+|   |   └── ...
 ├── tests/
 │   ├── test_logger.py
+|   |   └── ...
 ├── README.md
 ├── setup.py
 ```
